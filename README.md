@@ -6,3 +6,4 @@ cd seeker
 ./termux-install.sh
 python seeker.py
 ./ngrok.http 8080
+for Live location 
